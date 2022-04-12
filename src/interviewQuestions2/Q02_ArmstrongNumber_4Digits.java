@@ -12,6 +12,8 @@ public class Q02_ArmstrongNumber_4Digits {
 
         5 basamakli : 54748 */
 
+
+
    public static void main(String[] args) {
        Scanner scan = new Scanner(System.in);
        System.out.print("Bir sayi giriniz :");
