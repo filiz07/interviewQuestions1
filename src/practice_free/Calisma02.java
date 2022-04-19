@@ -27,6 +27,9 @@ public class Calisma02 {
         System.out.println("sayilar tolami  "+ toplam);
 
 
+        
+
+
 
 
 
